@@ -1,6 +1,6 @@
 ---
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "LASSO and Ridge Regression"
+author: "Kathleen Annis, Matt Thompson, and Autumn Weeks"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
