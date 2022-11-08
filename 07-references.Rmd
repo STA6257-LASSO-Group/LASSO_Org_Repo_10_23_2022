@@ -1,3 +1,9 @@
-`r if (knitr::is_html_output()) '
-# References {-}
-'`
+# References
+
+1.  Joshi J., Saxena S. REGRESSION ANALYSIS IN DATA SCIENCE. Journal of Analysis and Computation (JAC) (An International Peer Reviewed Journal), wwwijaconlinecom. 2020;XIV. <http://www.ijaconline.com/wp-content/uploads/2021/01/26.pdf>
+2.  Jabbar, Haider Khalaf and Rafiqul Zaman Khan. "Methods to Avoid Over-Fitting and Under-Fitting in Supervised Machine Learning (Comparative Study)." (2014).
+3.  Aheto JMK, Duah HO, Agbadi P, Nakua EK. A predictive model, and predictors of under-five child malaria prevalence in Ghana: How do LASSO, Ridge and Elastic net regression approaches compare?. Prev Med Rep. 2021;23:101475. Published 2021 Jun 27. <doi:10.1016/j.pmedr.2021.101475>
+4.  Bickel P, Li B. Regularization in Statistics Regularization in Statistics. Test. 2006;15(2):271-344. Accessed November 6, 2022. <https://www.stat.berkeley.edu/~bickel/Test_BickelLi.pdf>
+5.  Hastie T, Tibshirani R, Wainwright M. Statistical Learning with Sparsity: The Lasso and Generalizations. Boca Raton, FL: CRC Press, Taylor & Francis Group; 2015.
+6.  Emmert-Streib F, Dehmer M. High-Dimensional LASSO-Based Computational Regression Models: Regularization, Shrinkage, and Selection. Machine Learning and Knowledge Extraction. 2019; 1(1):359-383. <https://doi.org/10.3390/make1010021>
+7.  Freijeiro‐González L, Febrero‐Bande M, González‐Manteiga W. A critical review of Lasso and its derivatives for variable selection under dependence among covariates. International Statistical Review. 2021;90(1):118-145. <doi:10.1111/insr.12469>
